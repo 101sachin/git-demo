@@ -8,3 +8,8 @@ new version 1.0
 ================
 version 2.0 added
 =========================
+function (){
+    console.log('new function added to the file');
+}
+version 3.0
+
